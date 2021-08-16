@@ -1,0 +1,7 @@
+{
+  "title": "Clean React app",
+  "app_title": "Welcome to React and react-i18next",
+  "language": "English",
+  "welcome_message": "This content has been reviewed on you tube",
+  "days_since_release": "There are {{number_of_days}} days left until this content is released"
+}

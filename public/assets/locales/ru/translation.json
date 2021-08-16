@@ -1,0 +1,7 @@
+{
+  "title": "Приложение Clean React",
+  "app_title": "Добро пожаловать в React и react-i18next",
+  "language": "Русский",
+  "welcome_message": "Этот контент также есть на YouTube",
+  "days_since_release": "До выпуска этого содержания осталось {{number_of_days}} дней"
+}
